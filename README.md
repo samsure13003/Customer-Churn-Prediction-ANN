@@ -4,15 +4,13 @@
 
 <br>
 
-# Customer Churn Prediction with ANN
-
 ### Predict customer churn probability with a TensorFlow neural network and an interactive Streamlit app.
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://customer-churn-prediction-ann-juzlv7qdmy8jrmwwsmlfga.streamlit.app/)
 
-[Open the Streamlit app](https://customer-churn-prediction-ann-juzlv7qdmy8jrmwwsmlfga.streamlit.app/)
+#### [Open the Streamlit app](https://customer-churn-prediction-ann-juzlv7qdmy8jrmwwsmlfga.streamlit.app/)
 
 </div>
 
