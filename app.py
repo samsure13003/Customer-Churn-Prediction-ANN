@@ -421,7 +421,6 @@ st.markdown(
 
         Built with ❤️ using Streamlit, TensorFlow and Scikit-learn
 
-        <br><br>
 
         Customer Churn Prediction | Machine Learning Project
 
