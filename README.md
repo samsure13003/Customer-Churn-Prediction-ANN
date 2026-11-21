@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="photo/banner.svg" alt="Customer churn prediction with an artificial neural network" width="100%">
+
+<br>
+
 # Customer Churn Prediction with ANN
 
 ### Predict customer churn probability with a TensorFlow neural network and an interactive Streamlit app.
@@ -125,7 +129,8 @@ Churn_Customer_ANN/
 │   └── scaler.pkl
 ├── logs/
 │   └── fit/                 # TensorBoard event files
-├── photo/                   # TensorBoard screenshots used above
+├── photo/                   # README banner and TensorBoard screenshots
+│   └── banner.svg
 ├── app.py                   # Streamlit application
 ├── experiments.ipynb        # Data preparation and ANN training
 ├── prediction.ipynb         # Example prediction workflow
